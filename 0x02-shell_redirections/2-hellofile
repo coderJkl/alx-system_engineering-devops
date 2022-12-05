@@ -1,0 +1,2 @@
+#!/bcat /etc/passwd
+cat /etc/passwd

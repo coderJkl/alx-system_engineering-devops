@@ -1,0 +1,3 @@
+#!/bin/bash
+echo {a..z}{a..z} | sed 's/oo//'| fmt -w 1
+
